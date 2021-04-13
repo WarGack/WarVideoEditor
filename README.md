@@ -1,4 +1,7 @@
 # WarVideoEditor - GUIшка для ffmpeg, которая многим может показаться удобной
+Скачать актуальную версию: https://github.com/WarGack/WarVideoEditor/blob/main/WarVideoEditor.zip
+Пароль на архив: warnight.net
+Требуется библеотка ffmpeg, скачать можно тут: https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z
 
 Версия №2. Что нового:
 • Добавлена поле для изменения кодека, по умолчанию поставлен GPU Encoder от NVidia
