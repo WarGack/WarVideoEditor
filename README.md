@@ -1,4 +1,7 @@
 # WarVideoEditor - GUIшка для ffmpeg, которая многим может показаться удобной
+
+Скачать последнюю версию с Яндекс.Диска: https://disk.yandex.ru/d/Hq2rw5EBWuxHCA
+
 Скачать актуальную версию: https://github.com/WarGack/WarVideoEditor/blob/main/WarVideoEditor.zip
 Пароль на архив: warnight.net
 Требуется библеотка ffmpeg, скачать можно тут: https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-full.7z
